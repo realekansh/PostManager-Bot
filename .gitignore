@@ -1,0 +1,19 @@
+# Local environment
+.env
+.venv/
+
+# Runtime data
+bot.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
